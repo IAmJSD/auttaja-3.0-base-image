@@ -1,4 +1,4 @@
-yarl<1.2
+yarl==1.2.6
 -e git+https://github.com/Kelwing/discord.py.git@rewrite#egg=discord.py
 -e git+https://github.com/Kelwing/aiotwitch.git#egg=aiotwitch
 aiobotocore==0.9.4
