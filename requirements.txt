@@ -24,3 +24,4 @@ graypy==0.3.1
 python-jose==3.0.1
 qrcode[pil]==6.0
 prometheus_client==0.4.2
+kubernetes
