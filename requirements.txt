@@ -23,6 +23,6 @@ async-hvac[parser]==0.6.1
 graypy==0.3.1
 python-jose==3.0.1
 qrcode[pil]==6.0
-prometheus_client==0.4.2
+prometheus_client==0.5.0
 kubernetes-py==1.10.0.7
 aiocache==0.10.1
