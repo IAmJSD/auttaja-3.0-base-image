@@ -17,7 +17,7 @@ python-fity3==0.7
 numpy==1.15.3
 emoji==0.5.1
 aiohttp==3.4.4
-Cython==0.29
+Cython==0.29.1
 coloredlogs==10.0
 async-hvac[parser]==0.6.1
 graypy==0.3.1
