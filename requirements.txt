@@ -1,10 +1,10 @@
 yarl==1.2.6
 -e git+https://github.com/Kelwing/discord.py.git@rewrite#egg=discord.py
 -e git+https://github.com/Kelwing/aiotwitch.git#egg=aiotwitch
-aiobotocore==0.9.4
+aiobotocore==0.10.0
 tweepy==3.7.0
 pillow==5.3.0
-sentry-sdk==0.5.5
+sentry-sdk==0.6.2
 urbandictionary==1.1
 pytz==2018.7
 pylru==1.1.0
@@ -23,6 +23,6 @@ async-hvac[parser]==0.6.1
 graypy==0.3.1
 python-jose==3.0.1
 qrcode[pil]==6.0
-prometheus_client==0.4.2
+prometheus_client==0.5.0
 kubernetes-py==1.10.0.7
 aiocache==0.10.1
