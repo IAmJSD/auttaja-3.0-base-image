@@ -15,7 +15,7 @@ python-fity3==0.7
 numpy==1.15.3
 emoji==0.5.1
 aiohttp>=3.3.0,<3.5.0
-Cython==0.29.1
+Cython==0.29.2
 graypy==0.3.1
 prometheus_client==0.5.0
 kubernetes-py==1.10.0.7
