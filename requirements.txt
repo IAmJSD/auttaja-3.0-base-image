@@ -1,5 +1,6 @@
 -e git+https://github.com/Kelwing/discord.py.git@rewrite#egg=discord.py
 -e git+https://github.com/Kelwing/aiotwitch.git#egg=aiotwitch
+-e git+https://github.com/Devoxin/Lavalink.py#egg=lavalink
 aiobotocore==0.10.0
 tweepy==3.7.0
 pillow==5.3.0
