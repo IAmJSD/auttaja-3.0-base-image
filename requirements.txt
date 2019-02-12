@@ -8,7 +8,7 @@ pillow==5.4.1
 sentry-sdk==0.6.9
 pylru==1.1.0
 gitpython==2.1.11
-dateparser==0.7.0
+dateparser==0.7.1
 psutil==5.5.0
 html2text==2018.1.9
 rethinkdb==2.3.0.post6
