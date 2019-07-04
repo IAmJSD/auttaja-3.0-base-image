@@ -4,7 +4,7 @@
 aiobotocore==0.10.0
 tweepy==3.7.0
 pytz==2018.9
-pillow==5.4.1
+pillow==6.1.0
 sentry-sdk==0.6.9
 pylru==1.1.0
 gitpython==2.1.11
