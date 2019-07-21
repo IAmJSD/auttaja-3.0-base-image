@@ -2,7 +2,7 @@
 -e git+https://github.com/Kelwing/aiotwitch.git#egg=aiotwitch
 -e git+https://github.com/Devoxin/Lavalink.py#egg=lavalink
 aiobotocore==0.10.0
-tweepy==3.7.0
+tweepy==3.8.0
 pytz==2018.9
 pillow==5.4.1
 sentry-sdk==0.6.9
