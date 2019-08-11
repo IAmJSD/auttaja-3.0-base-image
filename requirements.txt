@@ -10,7 +10,7 @@ pylru==1.1.0
 gitpython==2.1.11
 dateparser==0.7.0
 psutil==5.5.0
-html2text==2018.1.9
+html2text==2019.8.11
 rethinkdb==2.3.0.post6
 python-fity3==0.7
 numpy==1.16.0
