@@ -3,7 +3,7 @@ discord.py==1.2.3
 -e git+https://github.com/Devoxin/Lavalink.py@b6b856bb017b740469bc5359024b224dd7a7b665#egg=lavalink
 aiobotocore==0.10.0
 tweepy==3.7.0
-pillow==5.3.0
+pillow==6.1.0
 sentry-sdk==0.6.5
 pytz==2018.7
 pylru==1.1.0
