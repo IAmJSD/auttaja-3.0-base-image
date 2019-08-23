@@ -1,27 +1,26 @@
--e git+https://github.com/Kelwing/aiotwitch.git#egg=aiotwitch
--e git+https://github.com/Devoxin/Lavalink.py#egg=lavalink
 discord.py==1.2.3
-aiobotocore==0.10.3
+-e git+https://github.com/Kelwing/aiotwitch.git#egg=aiotwitch
+-e git+https://github.com/Devoxin/Lavalink.py@b6b856bb017b740469bc5359024b224dd7a7b665#egg=lavalink
+aiobotocore==0.10.0
 tweepy==3.7.0
-pytz==2019.2
-pillow==5.4.1
-sentry-sdk==0.6.9
+pillow==5.3.0
+sentry-sdk==0.6.5
+pytz==2018.7
 pylru==1.1.0
 gitpython==2.1.11
 dateparser==0.7.0
-psutil==5.5.0
+psutil==5.4.8
 html2text==2018.1.9
 rethinkdb==2.3.0.post6
 python-fity3==0.7
 numpy==1.17.0
 emoji==0.5.1
-aiohttp>=3.3.0,<3.6.0
-Cython==0.29.3
+aiohttp==3.5.0
+Cython==0.29.2
 graypy==0.3.1
 prometheus_client==0.5.0
 kubernetes-py==1.10.7.1
 aiocache==0.10.1
-uvloop==0.12.0
 asyncio-nats-client==0.8.2
 patreon==0.5.0
 logdna==1.2.8
