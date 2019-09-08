@@ -1,4 +1,4 @@
-FROM pypy:3.6-stretch
+FROM jamiehewland/alpine-pypy:3.6-alpine3.9
 LABEL maintainer="kelwing@auttaja.io"
 WORKDIR /opt/auttaja
 COPY requirements.txt requirements.txt
